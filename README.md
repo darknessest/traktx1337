@@ -23,6 +23,7 @@ Currently it's push notification. Considering to switch to emails.
 
 Configuration info should be kept in `config.ini`. Considering to add encryption.
 
+Jupyter notebook is used only for testing.
 
 ## Requirements
 
